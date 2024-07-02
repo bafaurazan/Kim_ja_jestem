@@ -1,2 +1,6 @@
 # Kim_ja_jestem
-Gra karciana stworzona podczas wydarzenia: Steelworks Game Jam: Edycja II ( 2023-10 )
+A card game created during the event: Steelworks Game Jam: Edycja II ( 2023-10 )
+
+![](./grafika/menu.png)
+
+game in location `./gra/Kimjajestem/Kimjajestem.exe`
